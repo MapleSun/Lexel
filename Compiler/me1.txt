@@ -1,0 +1,14 @@
+RatS     Function Identifier  
+  ( )   : ; , {} := [ ]
+    int  Integer     boolean    rEal       [* Middle *]
+  If    if  else  endif while  Boolean   
+Return    printf  scanF write [* id *] ( IDs ) ;
+==   [* two = *] 
+!=  [* wrong one *] /=   >> <   =>    <=  ++ - *  //      
+  true  false     
+     123   0000    13.456   .567    12.45.67
+    a_c__t        abc    x    $$ 
+   x56s      _fgt     xy_   %   &   $
+ [* end
+ *]
+
